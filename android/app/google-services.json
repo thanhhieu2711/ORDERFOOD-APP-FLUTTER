@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "967528591832",
+    "project_id": "food-app-cf927",
+    "storage_bucket": "food-app-cf927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967528591832:android:31918ef4b12f8e63a002ad",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967528591832-a9hsu4nkdoignldd7vs62nma5k7qdd09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_ordering",
+            "certificate_hash": "4663c4877ab83eab6421f8511089d863ef7d4491"
+          }
+        },
+        {
+          "client_id": "967528591832-njlk5eirf805dg4mouuk5c97ddsvrc2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bV0XvEtzbk4IZjn9EK2B8K5dwHc18rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967528591832-c8lpbj4kbt9hbsc3kv0itpg8ur87b1sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967528591832-v46gm7b0ual08pgpheh8hncen7q8r4g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodorderApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967528591832:android:5dde050778888e1fa002ad",
+        "android_client_info": {
+          "package_name": "com.example.foodorder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967528591832-k9ruhiicrm4d36da63esl9soc9ndh60i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodorder_app",
+            "certificate_hash": "4663c4877ab83eab6421f8511089d863ef7d4491"
+          }
+        },
+        {
+          "client_id": "967528591832-njlk5eirf805dg4mouuk5c97ddsvrc2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bV0XvEtzbk4IZjn9EK2B8K5dwHc18rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967528591832-c8lpbj4kbt9hbsc3kv0itpg8ur87b1sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967528591832-v46gm7b0ual08pgpheh8hncen7q8r4g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodorderApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
